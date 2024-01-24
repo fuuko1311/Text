@@ -1,0 +1,15 @@
+Only one space between   words.
+Only one space after comma (,  ), dot ( .  ) and colon (:  ). First 
+character of word after dot. is in Uppercase 
+and other words are in lower case.
+There are no spaces before and after sentence or word phrases in quotes ( “ haha ”).
+First character of word in 
+first line is in Uppercase.
+There are no blank line 
+
+between lines
+There are no space between comma or dot and word in front of it.  ,  : . 
+Must have dot at the end of text
+
+
+hhahahfa  hj,,
